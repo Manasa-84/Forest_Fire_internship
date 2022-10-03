@@ -1,2 +1,2 @@
-# Forest_Fire_internship
-FOREST-FIRE PREDICTION
+# Forest_Fire_Internship
+FOREST-FIRE PREDICTION 
